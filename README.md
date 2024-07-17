@@ -29,3 +29,6 @@ There was no data modeling required for this project as the data was contained i
 ## Analysis & Visualiztion 
 From the analysis, 81.08% of calls were answered, with 72.92% of those answered calls resolved. January emerged as the month with the highest number of calls. For a detailed view, please refer to the dashboard image provided below.
 ![](C_Dashboard.png)
+
+## Recommendation 
+50% increase in the number of agents, thereby improving call response times
